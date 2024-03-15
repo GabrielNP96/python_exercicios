@@ -8,4 +8,4 @@ try:
     sum_of_two_numbers(first_user_number, second_user_number)
 
 except:
-    print('Erro...\nvalor inválido...')
+    print('Erro...\nValor inválido...')
